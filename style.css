@@ -1,0 +1,22 @@
+body{
+    color: #AB0910;
+  font-family: sans-serif;
+background-color: #29E6C0;  
+}
+img{
+    width:150px ;}
+p{
+ background-color: #79BDBD;   
+text-align: center;
+justify-content: center;
+padding:30px;
+margin: 50px;
+margin-top: -2%;
+}
+h1{
+    background-color: #2BA649;
+    text-align: center;
+}
+a{
+    text-align: center;
+}
